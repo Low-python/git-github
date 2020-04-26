@@ -1,1 +1,4 @@
 this is first code file (local file in local git project)
+
+I am a student of git hub
+
